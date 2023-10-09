@@ -1,0 +1,33 @@
+.new-div
+{
+	background: white;
+	height: 720px;
+	width: 100%;
+	position: fixed;
+}
+.inner
+{
+	width: 80%;
+	height: 600px;
+	background: #ffffff;
+	margin-top: 60px;
+	box-shadow: 10px -9px 24px -1px rgba(168,141,168,1);
+}
+.navbar
+{
+	height: 100px;
+}
+.navbar-brand
+{
+	padding-left: 50px;
+}
+.logo-name
+{
+	float: right;
+	font-size: 20px;
+	padding-right: 30px;
+}
+.nav-link
+{
+	color: #000000;
+}
